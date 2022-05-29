@@ -60,7 +60,7 @@
 
 ##### *[TELEGRAM](https://t.me/bekzod_dev)*
  
-##### *[LinkedIn](https://www.linkedin.com/in/bekzod-murotboyev-10b4b722b/)*
+##### *[LinkedIn](https://www.linkedin.com/in/bekzod-murotboyev)*
   
 </details>
 
