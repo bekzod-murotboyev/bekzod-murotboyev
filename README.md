@@ -66,6 +66,6 @@
 
 ---
 
-###### [WEBSITE](http://murotboyev-bekzodbek.us-east-1.elasticbeanstalk.com)
+###### [WEBSITE](http://bekzod.me)
 
-###### [RESUME](https://drive.google.com/file/d/14glPCHdBOOfzmKpc2qAGexUYXwE_rTnJ/view?usp=sharing)
+###### [RESUME](https://drive.google.com/file/d/1ehrhWxlAP5UMmlQaQvnNOGZju-pWcAAr/view?usp=sharing)
